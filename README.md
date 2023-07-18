@@ -1,7 +1,7 @@
-![MasterHead]( [https://camo.githubusercontent.com/30152af33db0974f1ef003eaa49835308beda83c3d1f18cbbdd6c7b529e03c8b/68747470733a2f2f66696c65732e726561646d652e696f2f643134313132642d436c6f7564736d6974682d496e746567726174696f6e732d42616e6e65722d4769744875622e706e67](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif))
+![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
 <h1 align="center">Hi 👋, I'm Vaishnavi Bhure</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="  https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavibhure&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavibhure" /> </p>
